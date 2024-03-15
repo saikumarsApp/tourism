@@ -1,0 +1,52 @@
+.products-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  margin: 20px;
+}
+.image-styling {
+  width: 250px;
+  height: 200px;
+  border-radius: 8px;
+}
+.package-container {
+  display: flex;
+  flex-wrap: wrap;
+  width: 80%;
+}
+.city-name {
+  color: #130d69;
+  font-weight: 500;
+  margin-top: 2px;
+  margin-bottom: 0px;
+}
+.place-name {
+  color: #8f75ec;
+  margin-top: 2px;
+  margin-bottom: 0px;
+  width: 250px;
+}
+.products-img {
+  width: 150px;
+}
+.packages-heading {
+  color: #1e1857;
+  margin-top: 2px;
+}
+.button-styling {
+  border-width: 0px;
+  margin-top: 5px;
+  color: white;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-right: 15px;
+  padding-left: 15px;
+  background-color: rgb(8, 102, 102);
+  border-radius: 5px;
+}
